@@ -1,3 +1,3 @@
-# Heeading
+# Heading
 
 Some description
